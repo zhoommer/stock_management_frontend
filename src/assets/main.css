@@ -1,0 +1,16 @@
+#app {
+  font-weight: normal;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+}
+
+.login-background {
+  background-image: url("../assets/images/login-background.jpg");
+  background-size: contain;
+  background-position: center;
+}
